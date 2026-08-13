@@ -1,26 +1,73 @@
-<h1 align="center">Hi 👋, I'm Hemathri M</h1>
-<h3 align="center">An Evolving Software Developer</h3>
+# Hi, I'm Hemathri M 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemathri-8 & label=Profile%20views&color=0e75b6 & style=flat" alt="hemathri-8" /> </p>
+### Software Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=hemathri-8" alt="hemathri-8" /> </a> </p>
+I'm a **Software Developer** and **2026 B.Tech IT graduate** interested in creating practical applications and understanding what happens behind the code.
 
-- 🌱 I’m currently learning **DSA & Spring boot**
+My current toolkit includes **Java, JavaScript, MySQL, HTML & CSS**, while I'm diving deeper into **DSA and Spring Boot**.
 
-- 💬 Ask me about **Java, MySql**
+I enjoy experimenting with projects, breaking things, fixing them, and picking up something new with every build.
 
-- 📫 How to reach me **hemathrim8@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MXic7t27EpPxyxALrUMIsIxMhweho5Vb/view?usp=drive_link](https://drive.google.com/file/d/1MXic7t27EpPxyxALrUMIsIxMhweho5Vb/view?usp=drive_link)
+## 🛠️ Skills & Technologies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hemathri m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemathri m" height="30" width="40" /> </a>
-</p>
+- ☕ Java
+- 🗄️ MySQL
+- 🌐 JavaScript
+- 🎨 HTML
+- 🎨 CSS
+- 📚 DSA
+- 🌱 Spring Boot
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemathri-8&show_icons=true&locale=en&layout=compact" alt="hemathri-8" /></p>
+## 🚀 Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemathri-8&show_icons=true&locale=en" alt="hemathri-8" /></p>
+### Vehicle Management System
+
+A Java-based vehicle management system designed to manage vehicle-related operations efficiently.
+
+**Technologies:** Java, MySQL
+
+---
+
+## 🎓 Education
+
+**B.Tech – Information Technology**  
+2026 Graduate
+
+---
+
+## 📜 Certifications
+
+- JavaScript Intermediate — HackerRank
+- Software Engineering — JPMorgan Chase & Co.
+- REST API — HackerRank
+
+---
+
+## 📊 GitHub Stats
+
+![Hemathri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemathri-8&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemathri-8&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hemathri-m-3bb02a355)
+- 💻 [GitHub](https://github.com/Hemathri-8)
+- 📧 [Email](mailto:hemathrim8@gmail.com)
+- 📄 [Resume](https://drive.google.com/file/d/1MXic7t27EpPxyxALrUMIsIxMhweho5Vb/view?usp=drive_link)
+
+---
+
+### 💡 Currently Learning
+
+**Data Structures & Algorithms • Spring Boot • Backend Development**
+
+---
+
+⭐ *Thanks for visiting my profile!*
