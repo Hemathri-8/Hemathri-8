@@ -102,7 +102,7 @@ A Java-based application designed to manage vehicle-related operations efficient
 
 <div align="center">
 
-`DSA` &nbsp; • &nbsp; `Spring Boot` &nbsp; • &nbsp;
+`DSA` &nbsp; • &nbsp; `Spring Boot` 
 
 </div>
 
