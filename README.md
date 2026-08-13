@@ -12,11 +12,11 @@
   <a href="https://github.com/Hemathri-8">
     <img src="https://img.shields.io/badge/GitHub-Hemathri--8-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hemathri-m-3bb02a355">
     <img src="https://img.shields.io/badge/LinkedIn-Hemathri%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:hemathrim8@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -66,7 +66,7 @@ A Java-based application designed to manage vehicle-related operations efficient
 
 **Built with**
 
-`Java` `MySQL`
+`Java`
 
 ---
 
@@ -102,7 +102,7 @@ A Java-based application designed to manage vehicle-related operations efficient
 
 <div align="center">
 
-`DSA` &nbsp; • &nbsp; `Spring Boot` &nbsp; • &nbsp; `Backend Development`
+`DSA` &nbsp; • &nbsp; `Spring Boot` &nbsp; • &nbsp;
 
 </div>
 
